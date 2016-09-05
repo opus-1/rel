@@ -1,4 +1,4 @@
-# Arel-Clone
+# Arel Clone
 
 ## Description
 
@@ -18,7 +18,7 @@ _Before you ask, there will also be a port of ActiveRecord coming in the next li
 
 ## Installation
 
-    npm install rel
+    npm install arel-clone
 
 ## Introduction
 
