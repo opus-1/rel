@@ -1,7 +1,7 @@
 {
-  "name": "rel",
+  "name": "arel-clone",
   "version": "0.1.0",
-  "description": "Rel is a SQL AST manager for Node JS",
+  "description": "Arel Clone is a SQL AST manager for Node JS",
   "homepage": "http://yang.github.com/rel/",
   "keywords": [],
   "author": {
@@ -11,13 +11,8 @@
   },
   "maintainers": [
     {
-      "name": "Carl Woodward",
-      "email": "carl@carlwoodward.com",
-      "web": "http://carlwoodward.com"
-    },
-    {
-      "name": "Yang Zhang",
-      "web": "http://yz.mit.edu"
+      "name": "Carson Wright",
+      "email": "carsonnwright@gmail.com"
     }
   ],
   "contributors": [
