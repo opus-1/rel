@@ -1,6 +1,4 @@
-# Rel
-
-https://github.com/yang/rel
+# Arel-Clone
 
 ## Description
 
