@@ -1,0 +1,62 @@
+{
+  "name": "rel",
+  "version": "0.1.0",
+  "description": "Rel is a SQL AST manager for Node JS",
+  "homepage": "http://yang.github.com/rel/",
+  "keywords": [],
+  "author": {
+    "name": "Carl Woodward",
+    "email": "carl@carlwoodward.com",
+    "web": "http://carlwoodward.com"
+  },
+  "maintainers": [
+    {
+      "name": "Carl Woodward",
+      "email": "carl@carlwoodward.com",
+      "web": "http://carlwoodward.com"
+    },
+    {
+      "name": "Yang Zhang",
+      "web": "http://yz.mit.edu"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Carl Woodward",
+      "email": "carl@carlwoodward.com",
+      "web": "http://carlwoodward.com"
+    },
+    {
+      "name": "Zachery Hostens",
+      "email": "zacheryph@gmail.com",
+      "web": "http://zacheryph.github.com"
+    },
+    {
+      "name": "Yang Zhang",
+      "web": "http://yz.mit.edu"
+    }
+  ],
+  "bugs": {
+    "web": "https://github.com/cjwoodward/rel/issues"
+  },
+  "licenses": [],
+  "repository": "https://github.com/cjwoodward/rel",
+  "dependencies": {
+    "date-utils": "^1.2.16",
+    "underscore": "1.1.6"
+  },
+  "engines": {
+    "node": ">=0.4.5"
+  },
+  "main": "./lib/rel.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/mocha test/**/*-test.js"
+  },
+  "devDependencies": {
+    "chai": "^1.9.2",
+    "mocha": "^2.0.1"
+  }
+}
